@@ -1,0 +1,7 @@
+{
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleName": "HelloWorld",
+  "CFBundleIdentifier": "me.borretti.helloworld",
+  "CFBundlePackageType": "APPL",
+  "CFBundleExecutable": "HelloWorld"
+}
