@@ -1,0 +1,8 @@
+{
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleName": "EmojiSidebar",
+  "CFBundleIdentifier": "me.borretti.emojisidebar",
+  "CFBundlePackageType": "APPL",
+  "CFBundleExecutable": "EmojiSidebar",
+  "CFBundleIconFile": "Icon.icns"
+}
