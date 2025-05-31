@@ -1,0 +1,8 @@
+{
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleName": "Greeter",
+  "CFBundleIdentifier": "me.borretti.greeter",
+  "CFBundlePackageType": "APPL",
+  "CFBundleExecutable": "Greeter",
+  "CFBundleIconFile": "Icon.icns"
+}
