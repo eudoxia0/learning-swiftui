@@ -1,0 +1,8 @@
+{
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleName": "Login",
+  "CFBundleIdentifier": "me.borretti.login",
+  "CFBundlePackageType": "APPL",
+  "CFBundleExecutable": "Login",
+  "CFBundleIconFile": "Icon.icns"
+}
