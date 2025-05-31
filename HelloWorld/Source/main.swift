@@ -25,7 +25,5 @@ struct HelloWorldApp: App {
         WindowGroup {
             ContentView()
         }
-        // Window starts at content size, can be resized up.
-        .windowResizability(.contentMinSize)
     }
 }
