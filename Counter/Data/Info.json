@@ -1,0 +1,8 @@
+{
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleName": "Counter",
+  "CFBundleIdentifier": "me.borretti.counter",
+  "CFBundlePackageType": "APPL",
+  "CFBundleExecutable": "Counter",
+  "CFBundleIconFile": "Icon.icns"
+}
