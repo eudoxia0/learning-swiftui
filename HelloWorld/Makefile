@@ -19,7 +19,7 @@ $(ICON): Data/Icon.icns
 
 .PHONY: run
 run:
-	open Build/HelloWorld.app
+	open Build/$(NAME).app
 
 .PHONY: clean
 clean:
