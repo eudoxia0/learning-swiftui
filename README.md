@@ -32,7 +32,6 @@ Resources used:
       <img src="Sidebar/Screenshot.png" />
     </td>
     <td>
-
     </td>
   </tr>
 </table>
