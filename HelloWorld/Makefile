@@ -17,6 +17,10 @@ $(ICON): Data/Icon.icns
 	mkdir -p Build/$(NAME).app/Contents/Resources
 	cp Data/Icon.icns $(ICON)
 
+.PHONY: run
+run:
+	open Build/HelloWorld.app
+
 .PHONY: clean
 clean:
 	rm -rf Build
