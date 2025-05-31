@@ -27,4 +27,12 @@ Resources used:
       <img src="Login/Screenshot.png" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="Sidebar/Screenshot.png" />
+    </td>
+    <td>
+
+    </td>
+  </tr>
 </table>
