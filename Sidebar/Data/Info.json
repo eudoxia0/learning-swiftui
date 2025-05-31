@@ -1,0 +1,8 @@
+{
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleName": "Sidebar",
+  "CFBundleIdentifier": "me.borretti.sidebar",
+  "CFBundlePackageType": "APPL",
+  "CFBundleExecutable": "Sidebar",
+  "CFBundleIconFile": "Icon.icns"
+}
