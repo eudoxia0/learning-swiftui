@@ -32,7 +32,14 @@ Resources used:
       <img src="Sidebar/Screenshot.png" />
     </td>
     <td>
-        <img src="EmojiSidebar/Screenshot.png" />
+      <img src="EmojiSidebar/Screenshot.png" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="DVD/Screenshot.png" />
+    </td>
+    <td>
     </td>
   </tr>
 </table>

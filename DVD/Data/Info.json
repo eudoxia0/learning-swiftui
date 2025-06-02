@@ -1,0 +1,8 @@
+{
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleName": "DVD",
+  "CFBundleIdentifier": "me.borretti.dvd",
+  "CFBundlePackageType": "APPL",
+  "CFBundleExecutable": "DVD",
+  "CFBundleIconFile": "Icon.icns"
+}
